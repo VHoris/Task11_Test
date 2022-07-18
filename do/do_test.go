@@ -34,8 +34,5 @@ func Test_DoFunction(t *testing.T) {
 		})
 
 	}
-	//got,_:=Do("b",5,true)
-	//t.Log(got)
-	//exp := "[5B]"
-	//assert.Equal(t, exp, got)
+
 }
